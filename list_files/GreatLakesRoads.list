@@ -125,6 +125,8 @@ HI I-H201 1A I-H1
 ID I-84 OR/ID ID/UT
 ID I-90 WA/ID ID/MT
 ID I-184 0 US20/26
+# US Highways (ID)
+ID US20 OR/ID ID/MT
 
 # Illinois
 # Interstates (IL)
@@ -150,6 +152,8 @@ IL I-280 IA/IL I-80
 IL I-290 I-90 I-90/94
 IL I-294 0 52
 IL I-355 0 I-290
+# US Highways (IL)
+IL US20 IA/IL IL/IN
 
 # Indiana
 # Interstates (IN)
@@ -166,6 +170,8 @@ IN I-275 KY/IN IN/OH
 IN I-465 I-65 53
 IN I-469 0 31
 IN I-865 I-65 I-465
+# US Highways (IN)
+IN US20 IL/IN IN/OH
 
 # Iowa
 # Interstates (IA)
@@ -181,6 +187,8 @@ IA I-380 65 MitAve
 IA I-480 NE/IA I-29
 IA I-680 NE/IA 3
 IA I-880 0 16
+# US Highways (IA)
+IA US20 NE/IA IA/IL
 
 # Kansas 
 # Interstates (KS)
@@ -266,6 +274,8 @@ MA I-95 66 MA/NH
 MA I-195 RI/MA 5
 MA I-291 1 5
 MA I-295 RI/MA 4
+# US Highways (MA)
+MA US20 NY/MA MA2_E
 
 # Michigan
 # Interstates (MI)
@@ -336,6 +346,8 @@ MT I-15 121 290
 MT I-90 ID/MT MT/WY
 MT I-115 I-15/90 ClaSt
 MT I-315 I-15 6thSt
+# US Highways (MT)
+MT US20 ID/MT YelNP
 
 # Nebraska
 # Interstates (NE)
@@ -345,6 +357,8 @@ NE I-129 1 NE/IA
 NE I-180 I-80 9thSt
 NE I-480 I-80 NE/IA
 NE I-680 I-80 NE/IA
+# US Highways (NE)
+NE US20 WY/NE NE/IA
 
 # Nevada
 # Interstates (NV)
@@ -405,6 +419,8 @@ NY I-690 I-90 I-481
 NY I-787 9 6thAve
 NY I-890 I-90(26) I-90(25)
 NY I-990 I-290 5
+# US Highways (NY)
+NY US20 PA/NY NY/MA
 
 # North Carolina
 # Interstates (NC)
@@ -462,6 +478,8 @@ OH I-490 1A OH10_E
 OH I-670 I-70 10
 OH I-675 I-75 26
 OH I-680 1 I-76
+# US Highways (OH)
+OH US20 IN/OH OH/PA
 
 # Oklahoma
 # Interstates (OK)
@@ -482,7 +500,8 @@ OR I-105 OR99/126 4
 OR I-205 I-5 OR/WA
 OR I-405 I-5(299B) 2
 # US Highways (OR)
-OR US 20
+OR US20 US101 OR/ID
+OR US101 US20 OR/WA
 
 # Pennsylvania
 # Interstates (PA)
@@ -506,6 +525,8 @@ PA I-295 I-95/276 PA/NJ
 PA I-376 12B 85
 PA I-579 I-279 CenAve
 PA I-676 I-76 PA/NJ
+# US Highways (PA)
+PA US20 OH/PA PA/NY
 
 # Rhode Island
 # Interstates (RI)
@@ -638,8 +659,10 @@ WI I-894 1A 10
 
 # Wyoming
 # Interstates (WY)
-I-25 CO/WY 210
-I-25 298 300
-I-80 UT/WY WY/NE
-I-90 MT/WY WY/SD
-I-180 I-80 I-80BL/30
+WY I-25 CO/WY 210
+WY I-25 298 300
+WY I-80 UT/WY WY/NE
+WY I-90 MT/WY WY/SD
+WY I-180 I-80 I-80BL/30
+# US Highway (WY)
+WY US20 YelNP WY/NE
