@@ -80,6 +80,13 @@ DE I-95 MD/DE DE/PA
 DE I-295 I-95 DE/NJ
 DE I-495 I-95 6
 
+# District of Columbia 
+# Interstates (DC)
+DC I-395 VA/DC US50
+DC I-695 I-395 2A
+# Other Highways (DC)
+DC DC295 1A DC/MD
+
 # Florida
 # Interstates (FL)
 FL I-4 I-275 132
