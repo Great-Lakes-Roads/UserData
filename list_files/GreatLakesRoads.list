@@ -84,6 +84,14 @@ CA I-215 34 45A
 CA I-405 10 I-5(158)
 CA I-605 1A 11
 CA I-710 1 4
+# US Highways (CA)
+CA US101 1A 7
+CA US101 66A 96C
+# State Highways (CA)
+CA CA1 72(101) 78(101)
+CA CA118 23 44A
+CA CA126 1A 40
+CA CA134 5B 13B
 
 # Colorado
 # Interstates (CO)
