@@ -667,15 +667,9 @@ WY I-180 I-80 I-80BL/30
 # US Highway (WY)
 WY US20 YelNP WY/NE
 
-
+# National Park Highways
 # YELL
-MT NEntRd WY/MT US89
 MT WEntRd US20/191 MT/WY
-WY DevTowRd WY110 VisCen
-WY NEntRd GraLoopRd WY/MT
-WY NorCanRd GraLoopRd_W GraLoopRd_E
-WY SEntRd US89/191 GraLoopRd
 WY WEntRd MT/WY GraLoopRd
-WY GraLoopRd NEntRd_W NEntRd_E
-MT OldGarRd WY/MT NEntRd
-WY OldGarRd NEntRd WY/MT
+WY GraLoopRd WEntRd EEntRd
+WY EEntRd GraLoopRd US14/16
