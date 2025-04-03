@@ -145,12 +145,16 @@ CT I-84 NY/CT CT/MA
 CT I-91 32A CT/MA
 CT I-95 NY/CT CT/RI
 CT I-384 I-84 US6/44
+# US Highways (CT)
+CT US6 I-384 CT/RI
 
 # Delaware
 # Interstates (DE)
 DE I-95 MD/DE DE/PA
 DE I-295 I-95 DE/NJ
 DE I-495 I-95 6
+State Highways (DE)
+DE DE1 MD/DE 165
 
 # District of Columbia 
 # Interstates (DC)
