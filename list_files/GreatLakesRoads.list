@@ -231,6 +231,10 @@ ID I-90 WA/ID ID/MT
 ID I-184 0 US20/26
 # US Highways (ID)
 ID US20 OR/ID ID/MT
+ID US95 ID55_N ID8_W
+# State Highways (ID)
+ID ID8 US95_N WA/ID
+ID ID55 I-84(46) US95_N
 
 # Illinois
 # Interstates (IL)
