@@ -691,7 +691,7 @@ TX I-820 1A 34
 # US Highways (TX)
 TX US54ElP 20 TX/NM
 # Spurs (TX)
-TX TXSpr320 RaiDr US54BusElP
+TX TXSpr320 RaiDr US54Bus
 TX TXSpr601 20A TXLp375
 
 # Utah
@@ -764,7 +764,7 @@ WY I-25 298 300
 WY I-80 UT/WY WY/NE
 WY I-90 MT/WY WY/SD
 WY I-180 I-80 I-80BL/30
-# US Highway (WY)
+# US Highways (WY)
 WY US20 YelNP WY/NE
 
 # National Park Highways
