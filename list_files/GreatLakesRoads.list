@@ -531,7 +531,7 @@ NJ I-676 1 NJ/PA
 # Named Freeways (NJ)
 NJ AtlBriCon AtlCityExpy NJ87
 NJ AtlCityExpy BalAve 44
-NJ NJTpk I-295(1) I-95(72) 
+NJ NJTpk I-295(1) 72(95) 
 
 # New Mexico
 # Interstates (NM)
@@ -704,7 +704,7 @@ RI US6 CT/RI I-195(2C)
 # State Highways (RI)
 RI RI3 I-95(9) RI102_S
 RI RI4 US1 I-95
-RI RI102 RI3_S RI4(5)
+RI RI102 RI3_S RI4
 RI RI138 US1_N AdmKalRd_W
 RI RI138A RI138_W RI238_S
 RI RI146 I-95 RI/MA
@@ -788,7 +788,7 @@ TX I-820 1A 34
 # US Highways (TX)
 TX US54ElP 20 TX/NM
 # Spurs (TX)
-TX TXSpr320 RaiDr US54Bus
+TX TXSpr320 RaiDr U54Bus
 TX TXSpr601 20A TXLp375
 # Named Freeways (TX)
 TX ChiTrlPkwy I-20 I-30
