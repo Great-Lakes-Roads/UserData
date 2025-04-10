@@ -398,7 +398,12 @@ MA I-195 RI/MA 5
 MA I-291 1 5
 MA I-295 RI/MA 4
 # US Highways (MA)
+MA US1 I-93(19) I-95(66)
 MA US20 NY/MA MA2_E
+# State Highways (MA)
+MA MA1ASal US1 MA145_N
+MA MA2 US20_E MA28
+MA MA146 RI/MA 18
 
 # Michigan
 # Interstates (MI)
