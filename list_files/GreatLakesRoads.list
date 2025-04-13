@@ -556,6 +556,10 @@ NM I-25 I-10 6
 NM I-25 221 232
 NM I-25 450 NM/CO
 NM I-40 AZ/NM NM/TX
+NM I-10BLLor I-10_W NM494
+# State Highways (NM)
+NM NM423 I-25 GolfCouRd
+NM NM494 I-10 I-10BL
 
 # New York
 # Interstates (NY)
