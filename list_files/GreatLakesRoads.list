@@ -399,6 +399,12 @@ KS I-435 MO/KS KS/MO
 KS I-470 1A 183(KT)
 KS I-635 1A KS/MO
 KS I-670 I-70 KS/MO
+# US Highways (KS)
+KS US400
+# State Highways (KS)
+KS KS4 
+KS KS10 
+KS KS96
 
 # Kentucky
 # Interstates (KY)
