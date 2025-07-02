@@ -284,6 +284,7 @@ FL FLTpkMia I-95/826 4X
 # Georgia
 # Interstates (GA)
 GA I-16 1 2
+GA I-16 157 167
 GA I-20 AL/GA 57
 GA I-24 TN/GA GA/TN
 GA I-59 AL/GA I-24
@@ -294,6 +295,7 @@ GA I-95 FL/GA GA/SC
 GA I-185 1 I-85
 GA I-285 GA279 62
 GA I-475 I-75_S I-75_N
+GA I-516 MilSt 8
 # US Highways (GA)
 GA US27 I-185(1) GA97
 # State Highways (GA)
@@ -304,6 +306,7 @@ GA GA139 I-85 EmbDr
 GA GA204 I-95 HarTruPkwy
 # Named Freeways (GA)
 GA HarTruPkwy GA204 PreSt
+GA VetPkwy GA204 I-516
 
 # Hawaii
 # Interstates (HI)
