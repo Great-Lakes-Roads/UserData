@@ -1243,6 +1243,7 @@ NY LaSExpy I-190 WilRd
 # North Carolina
 # Interstates (NC)
 NC I-26Fau TN/NC 13
+NC I-26 4A(240) NC/SC
 NC I-40 TN/NC 46
 NC I-40 53 270
 NC I-40 285 293
@@ -1547,7 +1548,7 @@ RI RI146 I-95 RI/MA
 
 # South Carolina
 # Interstates (SC)
-SC I-26 51 US17_S
+SC I-26 NC/SC US17_S
 SC I-77 I-26 SC/NC
 SC I-85 GA/SC SC/NC
 SC I-85BLSpa I-85_S I-85_N
