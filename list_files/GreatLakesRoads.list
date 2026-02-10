@@ -2262,6 +2262,14 @@ VA VA337 AdmTauBlvd_W I-564
 VA VA460 KY/VA VA80_E
 VA VA598 I-77 VA/WV
 
+# Virgin Islands
+# Territorial Highways (VI)
+VI VI30 VI302 VI313
+VI VI32 VI38_W VI38_E
+VI VI38 VI313 VI32_W
+VI VI302 VI30 CyrKingAir
+VI VI313 VI30 VI38
+
 # Washington
 # Interstates (WA)
 WA I-5 7 182
