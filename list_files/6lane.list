@@ -3,7 +3,6 @@
 #NORTH AMERICA#
 ##Canada##
 AB AB1 172 SarTrl
-AB AB2 222 225
 AB AB2 230 243
 AB AB2 243 248
 AB AB2 248 305
@@ -68,15 +67,12 @@ ON ON427 ON401 25
 ON ONQEW RR124 2
 ON ONQEW 34 100
 ON ONQEW 100 139
-ON AllRd LawAve ON401 #too short?
-ON AllRd ON401 TraRd #too short?
 ON DonValPkwy 1 ON401/404
 ON GarExpy 139 157 #2 lanes eastbound from 154 to 153 in the "wrong" order; same westbound from "154A" to 155
-#ON RR174 is under construction
 
 
 QC A-10 1 4 #construction may have affected this
-QC A-10 5 8 #construction may have affected this
+QC A-10 5 8
 QC A-13 1 22 #very short southbound 2 lanes at 2
 QC A-15 44 53
 QC A-15 53 63
@@ -648,7 +644,7 @@ KS I-70 224(KT) 411
 KS I-70 411 421B
 KS I-70 423C KS/MO
 KS I-670 I-70 KS/MO
-KS US69 I-435 I-35(225B)
+KS US69 151stSt I-35(225B)
 KS US400 MaiRd KS96
 
 
@@ -1390,7 +1386,7 @@ TN I-40 AR/TN 1
 TN I-40 1 1E
 TN I-40 1E 12B
 TN I-40 12B 18
-TN I-40 80 87 #construction from 79 to 80
+TN I-40 79 87
 TN I-40 196 208
 TN I-40 208 210
 TN I-40 210 211
