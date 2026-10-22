@@ -898,24 +898,23 @@ MS I-55 289 MS/TN
 
 
 NC I-26Fau TN/NC 9 #doesn't quite make it to 9
-NC I-26 31 33 #construction from 33 to 49
+NC I-26 31 49
 NC I-40 44 46
 NC I-40 66 72 #westbound doesn't quite make it to 66
 NC I-40 180 188
 NC I-40 188 196
+NC I-40 198 201
 NC I-40 206 259 #very brief 4 lane between the ramps at 219 and 220, but in the "wrong" order; ditto westbound with 222 and 223
-NC I-40 270 301
-NC I-40 301 306 #construction from 306 to 312
+NC I-40 270 312B
 NC I-240 3A 4A
 NC I-240 5B 7 #very brief westbound 2 lanes at 6
-NC I-440 4 16 #construction west of 4
-NC I-540 1 16
-NC I-540 16 26
-NC NC540 55 1
+NC I-440 1 16
+NC I-540 1 26 #brief lane drop westbound at 16
+NC NC540 36 1
 NC I-840 103(73) 14
 NC I-73 95 103
 NC I-73 103 107
-NC NC74 43 53 #westbound left lane temporarily ends at 43
+NC I-74Hig 41 56
 NC I-74Hig 67 71B
 NC I-77 SC/NC 36 #there are 2 free local and 1-2 toll express lanes in each direction from 19 to 35
 NC I-277 1B 2B
@@ -923,7 +922,7 @@ NC I-277 2B 5
 NC I-85 10A 163
 NC I-85 172 178
 NC I-485 30 41
-NC I-485 59 I-85(48) #construction from 51 to 59
+NC I-485 51 I-85(48) #there are 2-3 free local lanes and 1 toll express lane in each direction from 51 to 67
 NC NC885 1 5
 NC I-885 9 10
 NC I-885 10 13
@@ -931,7 +930,7 @@ NC I-85BLGre 33 I-85_N #very brief 4 lane between the ramps at 36A and 220(40), 
 NC I-87 16(440) 3
 NC I-87 3 13
 NC I-87FutRoc 13 14
-#NC I-95 construction from 58 to 81
+NC I-95 55 71 #construction from 71 to 81
 NC US1 69A 71
 NC US1 98 I-40
 NC US15 108B 174A(85)
